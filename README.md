@@ -26,7 +26,7 @@ npm run build
 ```
 ![Команда run build](./screenshot/Screenshot_2025-11-11_161205.png)
 
-![Something](https://github.com/AndriiDrahniew/LB2/blob/main/screenshot/Screenshot%202025-11-11%20104743.png)
+![Something](https://github.com/AndriiDrahniew/LB2/blob/main/screenshot/Screenshot%202025-11-11%20161205.png)
 ## Крок 1. Ініціалізація проєкту
 
 створено package.json, .gitignore, базові скрипти;
@@ -137,39 +137,32 @@ LOG_LEVEL=info
 - [v1.0.0](https://github.com/Soms01/Practical-2/releases/tag/v1.0.0) – стабілізація API, заборона `any`, експорти у `package.json`;
 - [v2.0.0](https://github.com/Soms01/Practical-2/releases/tag/v2.0.0) – breaking change: функція `add` приймає масив чисел.
 
-# Husky-хуки
-## 0.1.0
-### Помилка!
-![Помилка!](./img/photo_1_2025-10-08_14-48-19.jpg)
-### Виправлення!
-![Виправлення!](./img/photo_2_2025-10-08_14-48-19.jpg) (./img/photo_3_2025-10-08_14-48-19.jpg)
-## 0.2.0
-### Помилка!
-![Помилка!](./img/photo_4_2025-10-08_14-48-19.jpg)
-### Виправлення!
-![Виправлення!](./img/photo_5_2025-10-08_14-48-19.jpg) (./img/photo_6_2025-10-08_14-48-19.jpg)
-## 0.3.0
-### Помилка!
-![Помилка!](./img/photo_7_2025-10-08_14-48-19.jpg)
-### Виправлення!
-![Виправлення!](./img/photo_8_2025-10-08_14-48-19.jpg)
-## 0.4.0
-### Помилка!
-![Помилка!](./img/photo_9_2025-10-08_14-48-19.jpg)
-### Виправлення!
-![Виправлення!](./img/photo_10_2025-10-08_14-48-19.jpg)
-## 0.5.0
-### Помилка!
-![Помилка!](./img/photo_1_2025-10-10_14-31-21.jpg)
-### Виправлення!
-![Виправлення!](./img/photo_2_2025-10-10_14-31-21.jpg)
-## 1.0.0
-### Помилка!
-![Помилка!](./img/photo_11_2025-10-08_14-48-19.jpg)
-### Виправлення!
-![Виправлення!](./img/photo_12_2025-10-08_14-48-19.jpg)
-## 2.0.0
-### Помилка!
-![Помилка!](./img/photo_3_2025-10-10_14-31-21.jpg)
-### Виправлення!
-![Виправлення!](./img/photo_4_2025-10-10_14-31-21.jpg)
+# По ходу лаборатоної роботи ми створювали та виправляли помилки
+
+![Фото]([./img/photo_1_2025-10-08_14-48-19.jpg](https://github.com/AndriiDrahniew/LB2/blob/main/screenshot/Screenshot%202025-11-11%20104743.png))
+
+![Фото]([./img/photo_2_2025-10-08_14-48-19.jpg](https://github.com/AndriiDrahniew/LB2/blob/main/screenshot/Screenshot%202025-11-11%20112228.png))
+
+![Фото]([./img/photo_2_2025-10-08_14-48-19.jpg](https://github.com/AndriiDrahniew/LB2/blob/main/screenshot/Screenshot%202025-11-11%20112505.png))
+
+![Фото]([./img/photo_2_2025-10-08_14-48-19.jpg](https://github.com/AndriiDrahniew/LB2/blob/main/screenshot/Screenshot%202025-11-11%20113339.png))
+
+![Фото]([./img/photo_2_2025-10-08_14-48-19.jpg](https://github.com/AndriiDrahniew/LB2/blob/main/screenshot/Screenshot%202025-11-11%20113438.png))
+
+![Фото]([./img/photo_2_2025-10-08_14-48-19.jpg](https://github.com/AndriiDrahniew/LB2/blob/main/screenshot/Screenshot%202025-11-11%20113952.png))
+
+![Фото]([./img/photo_2_2025-10-08_14-48-19.jpg](https://github.com/AndriiDrahniew/LB2/blob/main/screenshot/Screenshot%202025-11-11%20114102.png))
+
+![Фото]([./img/photo_2_2025-10-08_14-48-19.jpg](https://github.com/AndriiDrahniew/LB2/blob/main/screenshot/Screenshot%202025-11-11%20123336.png))
+
+![Фото]([./img/photo_2_2025-10-08_14-48-19.jpg](https://github.com/AndriiDrahniew/LB2/blob/main/screenshot/Screenshot%202025-11-11%20123449.png))
+
+![Фото]([./img/photo_2_2025-10-08_14-48-19.jpg](https://github.com/AndriiDrahniew/LB2/blob/main/screenshot/Screenshot%202025-11-11%20124255.png))
+
+![Фото]([./img/photo_2_2025-10-08_14-48-19.jpg](https://github.com/AndriiDrahniew/LB2/blob/main/screenshot/Screenshot%202025-11-11%20124630.png))
+
+![Фото]([./img/photo_2_2025-10-08_14-48-19.jpg](https://github.com/AndriiDrahniew/LB2/blob/main/screenshot/Screenshot%202025-11-11%20161254.png))
+
+![Фото]([./img/photo_2_2025-10-08_14-48-19.jpg](https://github.com/AndriiDrahniew/LB2/blob/main/screenshot/Screenshot%202025-11-11%20162251.png))
+
+![Фото]([./img/photo_2_2025-10-08_14-48-19.jpg](https://github.com/AndriiDrahniew/LB2/blob/main/screenshot/Screenshot%202025-11-11%20162409.png))
