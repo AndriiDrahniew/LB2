@@ -14,20 +14,17 @@
 
 ### Встановлення
 ```bash
-git clone https://github.com/DenysKryvosheiev/PR2.git
-cd PR2
+git clone https://github.com/AndriiDrahniew/LB2.git
+cd LB2
 npm install
-```
-![Команда npm install](./img/install.jpg)
-```bash
 npm run demo
 ```
 ### Приклад викликів функцій:
-![Команда npm run demo](./img/demo.jpg)
+
 ```bash
 npm run build
 ```
-![Команда run build](./img/build.jpg)
+![Команда run build](./screenshot/Screenshot 2025-11-11 161205.png)
 ## Крок 1. Ініціалізація проєкту
 
 створено package.json, .gitignore, базові скрипти;
