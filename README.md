@@ -24,7 +24,7 @@ npm run demo
 ```bash
 npm run build
 ```
-![Команда run build](./screenshot/Screenshot 2025-11-11 161205.png)
+![Команда run build](./screenshot/Screenshot_2025-11-11_161205.png)
 ## Крок 1. Ініціалізація проєкту
 
 створено package.json, .gitignore, базові скрипти;
