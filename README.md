@@ -25,6 +25,8 @@ npm run demo
 npm run build
 ```
 ![Команда run build](./screenshot/Screenshot_2025-11-11_161205.png)
+
+![Something](https://github.com/AndriiDrahniew/LB2/blob/main/screenshot/Screenshot%202025-11-11%20104743.png)
 ## Крок 1. Ініціалізація проєкту
 
 створено package.json, .gitignore, базові скрипти;
